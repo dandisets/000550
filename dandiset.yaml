@@ -64,11 +64,21 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000550/versions/draft/assets/
 name: Pulse repetition rate
 protocol: []
-relatedResource: []
+relatedResource:
+- name: Action spectra and mechanisms of (in) efficiency of bipolar electric pulses
+    at electroporation
+  relation: dcite:IsPublishedIn
+  schemaKey: Resource
+  url: https://doi.org/10.1016/j.bioelechem.2022.108319
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
 url: https://dandiarchive.org/dandiset/000550/draft
 version: draft
-wasGeneratedBy: []
+wasGeneratedBy:
+- identifier: R21EY034258
+  name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
+  schemaKey: Project
+  used: []
+  wasAssociatedWith: []
