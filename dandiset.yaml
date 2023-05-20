@@ -59,6 +59,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-05-19T19:34:37.088796+00:00'
+datePublished: '2023-05-20T16:09:33.329203+00:00'
 description: 'Effect of pulse repetition rate on electroporation by 5 600ns unipolar
   or 600+600ns bipolar pulses (second phase''s amplitude was 50% in relation to the
   first pulse''s amplitude), at 833kHz, 500kHz, 100kHz, 10kHz. The electrodes were
@@ -76,6 +77,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000550/versions/draft/assets/
 name: Pulse repetition rate
 protocol: []
+publishedBy:
+  endDate: '2023-05-20T16:09:33.329203+00:00'
+  id: urn:uuid:4e0a5041-fbac-4606-bea9-b3556d5961cc
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-05-20T16:09:33.329203+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:ed6c3597-c251-4b9e-af00-5bab4d449a3e
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Action spectra and mechanisms of (in) efficiency of bipolar electric pulses
     at electroporation
