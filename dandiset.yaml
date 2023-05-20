@@ -7,9 +7,21 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 23579017779
+  numberOfFiles: 17
+  numberOfSubjects: 17
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9913
+    name: Bos taurus - Cattle
+    schemaKey: SpeciesType
+  variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii ; Semenov, Iurii; Pakhomov, Andrei (2023)
   Pulse repetition rate (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000550/draft
 contributor:
