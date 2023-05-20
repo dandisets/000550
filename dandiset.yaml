@@ -23,7 +23,7 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii ; Semenov, Iurii; Pakhomov, Andrei (2023)
-  Pulse repetition rate (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000550/draft
+  Pulse repetition rate (Version 0.230520.1609) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000550/0.230520.1609
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -67,14 +67,15 @@ description: 'Effect of pulse repetition rate on electroporation by 5 600ns unip
   by NIH 1R21EY034258
 
   '
+doi: 10.48324/dandi.000550/0.230520.1609
 ethicsApproval: []
-id: DANDI:000550/draft
+id: DANDI:000550/0.230520.1609
 identifier: DANDI:000550
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000550/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000550/0.230520.1609/assets.yaml
 name: Pulse repetition rate
 protocol: []
 publishedBy:
@@ -99,8 +100,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000550/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000550/0.230520.1609
+version: 0.230520.1609
 wasGeneratedBy:
 - identifier: R21EY034258
   name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
